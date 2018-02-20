@@ -1,2 +1,2 @@
 # innuy-lambda
-A project ready to be deployed in labda, using zappa framework
+A project ready to be deployed in lambda, using Zappa framework
